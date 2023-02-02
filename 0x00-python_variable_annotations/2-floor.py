@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''floor.
+'''Task 2's module.
 '''
 
 
